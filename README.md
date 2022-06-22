@@ -28,5 +28,9 @@ _Burp or Burp Suite is a set of tools used for penetration testing of web applic
 4.  Go back to folder burpsuite and click on .vbs file
 5.  Boom !!! Your Burpsuite are Installed
 
+### Password
+```
+anonre123
+```
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/joelindra"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://saweria.co/joelindra" /></a></p><br><br>
